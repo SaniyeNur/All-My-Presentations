@@ -22,7 +22,7 @@ I've been guest speaking at various universities, publications, and community ev
 
 * 20 Mayıs 2023 Ege Üniversitesi 2.Disiplinler Arası Yapay Zeka Kongresi ==> [Defensive Cyber Security Reinforced with AI](https://docs.google.com/presentation/d/e/2PACX-1vQ6pobJRSUPUHzrorkZWXwXKcC27vLqL2pUmeL46RhCkIoLg3oT_tWCr6nKs3JK0OiWbBPq5g4XcPna/pub?start=true&loop=true&delayms=10000)
 
-* 3 Aralık 2022 Konya Necmettin Erbakan University Devfest 2022 ==> [Let’s Talk Cyber Security](https://docs.google.com/presentation/d/1u3fwWzyezzo8DxrOEJgJDTYj2yMCU5i7/edit#slide=id.p1
+* 3 Aralık 2022 Konya GDG Devfest 2022 ==> [Let’s Talk Cyber Security](https://docs.google.com/presentation/d/1u3fwWzyezzo8DxrOEJgJDTYj2yMCU5i7/edit#slide=id.p1
 )
 
 * 20 Mayıs 2022 MACTECH Teknoloji Zirvesi ==> [Incident Response](https://www.youtube.com/watch?v=1xoxA4jJ-cE&t=4449s&ab_channel=MACSEC
