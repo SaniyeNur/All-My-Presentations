@@ -5,8 +5,9 @@ I've been guest speaking at various universities, publications, and community ev
 
 * 8 Mart 2024 Akdeniz Universitesi BİLİŞİM DÜNYASINDA KADIN ETKİSİ  ==> [Women in Defensive Security](https://docs.google.com/presentation/d/e/2PACX-1vSHjkQXbNjsT-1o4pnF1sVaLXDF4CYy6bhEcTHCnKlFMylUJtfcCuQdY8TMvus9lwOoHWXNs1SZrkS3/pub?start=true&loop=true&delayms=10000)
 
-* 3 Ocak 2024 Türk Siber Birliği - Türkiye Teknoloji Yüzyılında Siber Güvenlik Etkinlikleri 2023-2024 ==> [Siber Güvenlik'te Tehdit Avcılıgı'nın Yeri ve Önemi](https://docs.google.com/presentation/d/e/2PACX-1vQbQkSTf9lXErd3jXfAflkxNp2UigNPFjcVGz3JAt44zZRFcOt4Gt7TsdWmLXw-HBgpkmEVj5o5MEoA/pub?start=true&loop=true&delayms=10000)
+* 3 Ocak 2024 Türk Siber Birliği - Türkiye Teknoloji Yüzyılında Siber Güvenlik Etkinlikleri 2023-2024 ==> [Siber Güvenlik'te Tehdit Avcılıgı'nın Yeri ve Önemi-Sunum](https://docs.google.com/presentation/d/e/2PACX-1vQbQkSTf9lXErd3jXfAflkxNp2UigNPFjcVGz3JAt44zZRFcOt4Gt7TsdWmLXw-HBgpkmEVj5o5MEoA/pub?start=true&loop=true&delayms=10000)
 
+  [Youtube Linki](https://www.youtube.com/watch?v=8DjK7nbvv-Q&t=7416s&ab_channel=T%C3%BCrkSiberBirli%C4%9Fi)
 * 9 Aralık 2023 Afyon Kocatepe Üniversitesi Devfest 2023 ==> [The Art of Defense in the Cybersecurity World](https://docs.google.com/presentation/d/e/2PACX-1vSwHqKrAhtCdgsfkTP_xISW6VNbl0NQLBOyBQq6Fn3pmw0d0KCJPqRBaS1xeLBB51ISn2SeKnkxNOPl/pub?start=true&loop=true&delayms=10000
 )
 
