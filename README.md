@@ -1,6 +1,7 @@
 # All-My-Presentations
 I've been guest speaking at various universities, publications, and community events, delivering engaging presentations in my field. Requests for presentations come from students and interested individuals alike. To benefit all, I've decided to share past and future presentations here. Hope it helps!
 
+* 18 Aralık 2024 Selam Ekip - E62 - Cyber Defence Center Podcast Episode  ==> [Spotify Podcast](https://open.spotify.com/episode/47yleQweObCEPr42LatbKZ?si=f56d71e745094d79&nd=1&dlsi=a6eb52a857bc4256)
 * 19 Mayıs 2024  Kiber Təhlükəsizlik Platforması Trendyol Cyber Defence Center Eğitimi ==> [Incident Response and Digital Forensic Processes](https://docs.google.com/presentation/d/e/2PACX-1vTIo9tL2JZbplC1Lm1dZDS7YGi3PH-J-knn2Ezb-dMGjFFBb_odBeJ_BQwO7kp0_L8_Q-_Fu4ulA3bT/pub?start=false&loop=false&delayms=3000)
 
 * 21 Nisan 2024 Muğla Sıtkı Koçman Universitesi İnternet Haftası'24  ==> [Navigating Cybersecurity: A Defensive Security Perspective](https://docs.google.com/presentation/d/e/2PACX-1vQp_cnDf9puFuXDFmx_0WIaMOubkna5UYiV_J3rUKKR1Rs3T4AMNCQOwe0HZENeM0m0pAH3pwpnTlP6/pub?start=true&loop=true&delayms=10000)
