@@ -1,6 +1,8 @@
 # All-My-Presentations
 I've been guest speaking at various universities, publications, and community events, delivering engaging presentations in my field. Requests for presentations come from students and interested individuals alike. To benefit all, I've decided to share past and future presentations here. Hope it helps!
 
+* 26-27 Nisan 2025  Sakarya RACONF'25 Hands-On SOC Training
+ ==> [Hands-On SOC Training](https://docs.google.com/presentation/d/e/2PACX-1vTS1nwLlxYYVaC38fp6XtQFn8QvhJNtenI62OQOUK5-w1Bht7dkrrL4XMm3IIcScjj3X7ZnTXoh6ZXv/pub?start=false&loop=false&delayms=3000)
 * 24 Mart 2025 Trendyol Women in Tech- Cyber Defense in Trendyol: Detect, Defend and Respond  ==> [Youtube Presentation](https://www.youtube.com/watch?v=izgWduq_Cy8&ab_channel=TrendyolTech)
 * 23 Mart 2025 SpiCyber Summit 2025- Raise the Bar Culture in Cybersecurity  ==> [Raise the Bar Culture in Cybersecurity](https://docs.google.com/presentation/d/1EtlblsK2N9KSRruQYjPHg2kBIlSXTYi-ceqQlsvMD7k/edit?usp=sharing)
 * 18 Aralık 2024 Selam Ekip - E62 - Cyber Defence Center Podcast Episode  ==> [Spotify Podcast](https://open.spotify.com/episode/47yleQweObCEPr42LatbKZ?si=f56d71e745094d79&nd=1&dlsi=a6eb52a857bc4256)
