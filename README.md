@@ -1,8 +1,7 @@
 # All-My-Presentations
 I've been guest speaking at various universities, publications, and community events, delivering engaging presentations in my field. Requests for presentations come from students and interested individuals alike. To benefit all, I've decided to share past and future presentations here. Hope it helps!
 
-* 24 Mayıs 2025  KTUSEC Incident Response and Cyber Investigation[
-](https://docs.google.com/presentation/d/e/2PACX-1vQplMKNpOqYzph__Yys0hJIBfyfaWb_1XlHm9TC6Q1K8ZLK8NExVoMPw5RTF5qeGXPmKJd7mQKUV7eI/pub?start=false&loop=false&delayms=3000) ==> [Incident Response and Cyber Investigation]()
+* 24 Mayıs 2025  KTUSEC Incident Response and Cyber Investigation [Incident Response and Cyber Investigation](https://docs.google.com/presentation/d/e/2PACX-1vQplMKNpOqYzph__Yys0hJIBfyfaWb_1XlHm9TC6Q1K8ZLK8NExVoMPw5RTF5qeGXPmKJd7mQKUV7eI/pub?start=false&loop=false&delayms=3000)
 * 26-27 Nisan 2025  Sakarya RACONF'25 Hands-On SOC Training
  ==> [Hands-On SOC Training](https://docs.google.com/presentation/d/e/2PACX-1vTS1nwLlxYYVaC38fp6XtQFn8QvhJNtenI62OQOUK5-w1Bht7dkrrL4XMm3IIcScjj3X7ZnTXoh6ZXv/pub?start=false&loop=false&delayms=3000)
 * 24 Mart 2025 Trendyol Women in Tech- Cyber Defense in Trendyol: Detect, Defend and Respond  ==> [Youtube Presentation](https://www.youtube.com/watch?v=aZkXQgw8XnU&t=8005s&ab_channel=TrendyolTech)
