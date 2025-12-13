@@ -1,6 +1,8 @@
 # All-My-Presentations
 I've been guest speaking at various universities, publications, and community events, delivering engaging presentations in my field. Requests for presentations come from students and interested individuals alike. To benefit all, I've decided to share past and future presentations here. Hope it helps!
 
+* 23 Aralık 2025 Gazi Üniversitesi Siber Güvenlik Toplulugu- Defensive Security Workshop II
+* 16 Aralık 2025 Gazi Üniversitesi Siber Güvenlik Toplulugu- Defensive Security Workshop I
 * 30 Haziran 2025  Türkiye Siber Güvenlik Toplulugu [Bir Siber Olayın Anatomisi: Gerçek Hayatta IR Süreci](https://www.youtube.com/watch?v=XE20kUvKQ0k&ab_channel=T%C3%BCrkiyeSiberG%C3%BCvenlikToplulu%C4%9Fu)
 * 24 Mayıs 2025  KTUSEC Incident Response and Cyber Investigation [Incident Response and Cyber Investigation](https://docs.google.com/presentation/d/e/2PACX-1vQplMKNpOqYzph__Yys0hJIBfyfaWb_1XlHm9TC6Q1K8ZLK8NExVoMPw5RTF5qeGXPmKJd7mQKUV7eI/pub?start=false&loop=false&delayms=3000)
 * 26-27 Nisan 2025  Sakarya RACONF'25 Hands-On SOC Training
