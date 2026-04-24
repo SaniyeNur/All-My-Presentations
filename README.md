@@ -1,6 +1,10 @@
 # All-My-Presentations
 I've been guest speaking at various universities, publications, and community events, delivering engaging presentations in my field. Requests for presentations come from students and interested individuals alike. To benefit all, I've decided to share past and future presentations here. Hope it helps!
 
+* 2 Haziran 2026 Fırat Universitesi- [AI Ajanları ile Yeni Saldırı Yüzeyi ve MCP Gerçeği
+](...) 
+* 5 Mayıs 2026 IzTech CyberHive- [AI Ajanları ile Yeni Saldırı Yüzeyi ve MCP Gerçeği
+](...) 
 * 23 Aralık 2025 Gazi Üniversitesi Siber Güvenlik Toplulugu- [Defensive Security Workshop II](https://docs.google.com/presentation/d/e/2PACX-1vTTRWRQcSh6aiGMYPI4FBCtCeH6C7g690WyPfmRxsBe5eHLLgBWPppvCZjwYCXk1EymoQ8PTr1Nl4sr/pub?start=false&loop=false&delayms=3000) 
 * 16 Aralık 2025 Gazi Üniversitesi Siber Güvenlik Toplulugu- [Defensive Security Workshop I](https://docs.google.com/presentation/d/e/2PACX-1vQDk_BqPQWAnMu6UsSAllO_zigPd8bWJqFdJaHDqaB2UduCwlCg45yEtfaLWryCNzXV0GCjijeoi8O4/pub?start=false&loop=false&delayms=3000)
 * 30 Haziran 2025  Türkiye Siber Güvenlik Toplulugu [Bir Siber Olayın Anatomisi: Gerçek Hayatta IR Süreci](https://www.youtube.com/watch?v=XE20kUvKQ0k&ab_channel=T%C3%BCrkiyeSiberG%C3%BCvenlikToplulu%C4%9Fu)
