@@ -1,7 +1,7 @@
 # All-My-Presentations
 I've been guest speaking at various universities, publications, and community events, delivering engaging presentations in my field. Requests for presentations come from students and interested individuals alike. To benefit all, I've decided to share past and future presentations here. Hope it helps!
 
-* 2 Haziran 2026 Fırat Universitesi- [...
+* 4 Haziran 2026 Fırat Universitesi- [...
 ](...) 
 * 5 Mayıs 2026 IzTech CyberHive- [AI Ajanları ile Yeni Saldırı Yüzeyi ve MCP Gerçeği
 ](https://docs.google.com/presentation/d/e/2PACX-1vRJ97HsvkuqXWksAjs4p-rctfIS3YOlEYF43CIGOyH-P36MtS96_-hS9REQWRKOta4Sg8PX3HksYd_W/pub?start=false&loop=false&delayms=3000) 
